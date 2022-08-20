@@ -22,7 +22,7 @@
   },
   "config": {
     "customUrl": "http://pug-starter.codetap.academy",
-    "githubUrl": "http://github.com/marianzburlea/pug-starter.git",
+    "githubUrl": "http://github.com/marianzburlea/from-zero-to-1100-per-day.git",
     "deployToGithubIo": true,
     "directory": {
       "development": "tmp",
@@ -146,5 +146,9 @@
     "gulp-pug": "^5.0.0",
     "sass": "^1.34.1",
     "standard-version": "^9.3.0"
+  },
+  "volta": {
+    "node": "16.17.0",
+    "yarn": "1.22.19"
   }
 }
